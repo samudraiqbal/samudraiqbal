@@ -9,9 +9,9 @@
 
 Random people from Banyuwangi! ✨
 #### 📋 Current Activity
-- 💼 I'm working at PT.LinkNet as Project Design FTTH;
-- 📖 I'm a graduate of SMK Telkom Malang - RPL and now undergoing a bachelor's education at Binus Online Learning - Information System;
-- 😄 I want to go back to being a programmer;
+- 💼 I have 4.5 years of work experience in the field of networking, including 1 year as a Project Design at PT LinkNet and 3.5 years at PT Telkom Akses;
+- 📖 I am a final semester student at BINUS University, majoring in Information Systems and a graduate of SMK Telkom Malang, majoring in Software Engineering
+- 😄 Experienced in networking and currently pursuing a career in programming to develop my skills and make a bigger contribution in the technology industry;
 
 
 #### 📈 My GitHub Stats
